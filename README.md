@@ -61,7 +61,7 @@
 
 ---
 
-### 🔗 Where to Find Me
+### 🔗 Portfolio
 
 - 🌐 Portfolio: **[nkunaX-portfolio](https://nkunax-portfolio.pages.dev)**   
 
