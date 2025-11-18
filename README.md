@@ -51,11 +51,13 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=DeBoots-Nkuna&theme=tokyonight-duo&hide_border=true&background=050816&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"
-    alt="DeBoots-Nkuna GitHub streak"
-    height="160"
-  />
+  <a href="https://github-readme-streak-stats-eight.vercel.app/demo/">
+    <img
+      src="https://github-readme-streak-stats-eight.vercel.app?user=DeBoots-Nkuna&theme=tokyonight-duo&hide_border=true&background=050816&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"
+      alt="DeBoots-Nkuna GitHub streak"
+      height="160"
+    />
+  </a>
 </p>
 
 ---
