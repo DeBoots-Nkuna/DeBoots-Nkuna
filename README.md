@@ -21,13 +21,20 @@
 
 ### 🧩 Favorite Stack
 
+- ⚛️ React
+- 🧾 TypeScript
+- ⬛ Next.js
+- 🌱 Node.js
+- 🐘 PostgreSQL
+
 <p>
   <img src="https://img.shields.io/badge/React-00ff88?style=for-the-badge&logo=react&logoColor=0b0f19" />
   <img src="https://img.shields.io/badge/TypeScript-00ff88?style=for-the-badge&logo=typescript&logoColor=0b0f19" />
-  <img src="https://img.shields.io/badge/Next.js-00ff88?style=for-the-badge&logo=next.js&logoColor=0b0f19" />
-  <img src="https://img.shields.io/badge/Node.js-00ff88?style=for-the-badge&logo=node.js&logoColor=0b0f19" />
+  <img src="https://img.shields.io/badge/Next.js-00ff88?style=for-the-badge&logo=nextdotjs&logoColor=0b0f19" />
+  <img src="https://img.shields.io/badge/Node.js-00ff88?style=for-the-badge&logo=nodedotjs&logoColor=0b0f19" />
   <img src="https://img.shields.io/badge/PostgreSQL-00ff88?style=for-the-badge&logo=postgresql&logoColor=0b0f19" />
 </p>
+
 
 ---
 
@@ -41,15 +48,17 @@
 
 ### 📈 GitHub Stats (Matrix Mode)
 
+### 📈 GitHub Stats (Matrix Mode)
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DeBoots-Nkuna&show_icons=true&theme=tokyonight&title_color=00ff88&icon_color=00ff88&text_color=cbd5f5&bg_color=050816" 
-    alt="DeBoots GitHub stats" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DeBoots-Nkuna&show_icons=true&theme=tokyonight&title_color=00ff88&icon_color=00ff88&text_color=cbd5f5&bg_color=050816"
+    alt="DeBoots-Nkuna GitHub stats"
     height="160"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=DeBoots-Nkuna&theme=tokyonight&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" 
-    alt="GitHub Streak" 
+  <img
+    src="https://streak-stats.demolab.com?user=DeBoots-Nkuna&theme=tokyonight-duo&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&background=050816"
+    alt="DeBoots-Nkuna GitHub streak"
     height="160"
   />
 </p>
