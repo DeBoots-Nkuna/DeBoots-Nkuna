@@ -34,13 +34,12 @@
 
 ### 🚀 What I'm Working On
 
-- 🧑‍🏫 **Trainer / client platforms** – tools that help trainers manage clients, sessions, payments & AI-generated workout plans
-- 📚 Leveling up in **backend + TypeScript** to rebuild my apps with cleaner architecture  
-- 🧪 Small experiments with AI & automation to make everyday tools smarter  
-
+- 🧑‍🏫 Trainer / client platforms – tools that help trainers manage clients, sessions, payments & AI-generated workout plans  
+- 🧱 Leveling up in backend + TypeScript to rebuild my apps with cleaner architecture  
+- ✨ Small experiments with AI & automation to make everyday tools smarter  
 ---
 
-### 📈 GitHub Stats (Matrix Mode)
+### 📈 GitHub Stats 
 
 <p align="center">
   <img
