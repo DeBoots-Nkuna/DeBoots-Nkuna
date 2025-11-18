@@ -63,7 +63,6 @@
 
 ### 🔗 Where to Find Me
 
-- 🌐 Portfolio: **[nkunaX-portfolio](https://github.com/DeBoots-Nkuna/nkunaX-portfolio)**  
-- 💼 LinkedIn: **[Your LinkedIn Here](https://linkedin.com/in/your-handle)**   
+- 🌐 Portfolio: **[nkunaX-portfolio](https://nkunax-portfolio.pages.dev)**   
 
 > “Stay in the code. Stay in the Matrix.”
